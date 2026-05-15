@@ -7,6 +7,7 @@ Using Claude, created a dataset in Python and hypothesized client scenario.
 'A' would like to figure out the root cause of this business problem. 
 
 Questions:
+
 Where 'A' is losing customers?
 Which type of customers are most at risk?
 Whether pricing is playing a role in this case?
