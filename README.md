@@ -1,20 +1,21 @@
 ## Telecom Churn Analysis
+*This is a learning project to develop data analysis skills across Python, SQL, Excel, and Tableau. I used Claude AI and Chat GPT as assistant. The analytical approach, business interpretation, and visualisations are my own. Data quality checks and cleaning were conducted independently in Python. SQL work includes independent schema design, table creation, data normalization and intermediate analysis using JOIN and conditional functions. Advanced code was written with AI assistance.
 
-Using Claude, created a dataset in Python and hypothesized client scenario.
+### Business Context
+Simulated client scenario for 'A' experiencing higher than expected customer churn. The client suspected regional differences.
 
-## Client Scenario
-'A' have been losing customers faster than ever, especially in certain regions. 
-'A' would like to figure out the root cause of this business problem. 
+### Objective
+1. Validate the client's hypothesis
+2. Identify additional churn drivers
+3. Identify at risk customers for retention
 
-Questions:
+## Tools & Methodology
+Python| Dataset generation, statistical analysis, visualisation
+Excel| Exploratory analysis, pivot tables
+SQL (PostgreSQL)| Data normalisation, layered analysis
+Tableau| Dashboard
+PowerPoint| Presentation
 
-Where 'A' is losing customers?
-Which type of customers are most at risk?
-Whether pricing is playing a role in this case?
 
-## Method
-1. Clarify the business objectives of the project
-2. Conduct an exploratory data analysis to understand the dataset'
-   - Understand the relevant factors with the problems
-4. Conduct a full stack data analysis
-5. Solution/Recommendation
+
+
