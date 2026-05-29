@@ -12,9 +12,13 @@ Simulated client scenario for 'A' experiencing higher than expected customer chu
 
 ### Tools & Methodology
 Python| Dataset generation, statistical analysis, visualisation
+
 Excel| Exploratory analysis, pivot tables
+
 SQL (PostgreSQL)| Data normalisation, layered analysis
+
 Tableau| Dashboard
+
 PowerPoint| Presentation
 
 ### Key Findings
