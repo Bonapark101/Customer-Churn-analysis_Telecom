@@ -28,7 +28,8 @@ PowerPoint| Presentation
 4. Client's suspects are not statistically valid
 5. Found 18 at-risk customers for immediate retention
 
-<img width="1436" height="827" alt="Churn analysis_Dashboard" src="https://github.com/user-attachments/assets/9eb2226a-77fe-478f-832f-3957aabeb4f1" />
+<img width="1421" height="813" alt="Tableau_dashboard" src="https://github.com/user-attachments/assets/4a5a43fc-7ad6-4dbe-be35-4339f9e4d64c" />
+
 
 
 
